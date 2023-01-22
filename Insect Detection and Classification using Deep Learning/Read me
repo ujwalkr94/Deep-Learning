@@ -1,0 +1,6 @@
+The current article aims to classify the insects in the IP102 dataset, which contains 75,000 images of insects arranged into 102 categories with a long-tailed distribution.
+
+For object detection, bounding boxes were applied to around 19,000 photos. Using deep feature-based categorization methods and human categorization methods.
+
+
+
